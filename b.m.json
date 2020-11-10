@@ -3,5 +3,5 @@
   "description": "BOOM Pool provides high quality staking service for the Cardano network. Guaranteed low latency and 24/7 availability. Maximize your staking returns!",
   "ticker": "BOOM",
   "homepage": "https://boomada.com",
-  "extended": "http://boomada.com/b.e.json"
+  "extended": "https://raw.githubusercontent.com/bigpey/p/master/b.e.json"
 }
