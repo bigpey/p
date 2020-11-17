@@ -1,8 +1,6 @@
 {
-    "name": "BraveHeartStakePool",
-    "description": "At BraveHeartStakePool we are committed in providing you, the Cardano community with the ability to have financial ‘FREEDOM’. We will strive to provide quality reliably service 24/7 & aim to maximise your return on stake. BraveHeartStakePool ‘BRAVE’. ",
-    "ticker": "BRAVE",
-    "homepage": "https://braveheartstakepool.com",
-    "extended": "https://braveheartstakepool.com/brave-extended.json"
-  }
-  
+  "name": "BraveHeartStakePool",
+  "description": "At BraveHeartStakePool we are committed in providing you, the Cardano community with the ability to have financial ‘FREEDOM’. We will strive to provide quality reliably service 24/7 & aim to maximise your return on stake. BraveHeartStakePool ‘BRAVE’. ",
+  "ticker": "BRAVE",
+  "homepage": "https://braveheartstakepool.com"
+}
