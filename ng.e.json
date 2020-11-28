@@ -1,0 +1,18 @@
+{
+  "info": {
+    "url_png_icon_64x64": "https://raw.githubusercontent.com/bigpey/p/master/NOWicon.png",
+    "social": {
+      "twitter_handle": "NOWstakePOOL",
+      "telegram_handle": "nowgrantsartists"
+    }
+  },
+  "telegram-admin-handle": [
+    "NOWstakePOOL"
+  ],
+  "my-pool-ids": [
+    "01c1b3f6a85328ea68000141a3e10965a9c83b5ba151d3ebfc85ded7"
+  ],
+  "when-satured-then-recommend": [
+    "01c1b3f6a85328ea68000141a3e10965a9c83b5ba151d3ebfc85ded7"
+  ]
+}
