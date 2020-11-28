@@ -3,5 +3,5 @@
   "description": "NOW donates 50% of its profits to support emerging artists and art organizations. NOW is the time!",
   "ticker": "NOW",
   "homepage": "https://nowgrantsartists.com",
-  "extended": "https://nowgrantsartists.com/now-extended.json"
+  "extended": "https://raw.githubusercontent.com/bigpey/p/master/ng.e.json"
 }
