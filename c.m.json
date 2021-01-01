@@ -2,5 +2,6 @@
   "name": "CurryOn Crypto",
   "description": "ST₳KE with Confidence and CURRYON with Your Life! ",
   "ticker": "CURRY",
-  "homepage": "https://curryoncrypto.com"
+  "homepage": "https://curryoncrypto.com",
+  "extended": "https://raw.githubusercontent.com/bigpey/p/master/c.e.json"
 }
