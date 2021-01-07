@@ -2,5 +2,6 @@
   "name": "ZELDA STAKE POOL",
   "description": "Grow your wealth with Zelda stakepool from Japan!",
   "ticker": "ZELDA",
-  "homepage": "http://zeldastakepool.io"
+  "homepage": "http://zeldastakepool.io",
+  "extended": "https://raw.githubusercontent.com/bigpey/p/master/z.e.json"
 }
