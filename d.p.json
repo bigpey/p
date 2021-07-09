@@ -1,34 +1,7 @@
 {
-  "poolName": "DPTUS",
-  "poolOwner": [
-    {
-      "ownerName": "DPTUS",
-      "ownerWitness": "local"
-    }
-  ],
-  "poolRewards": "DPTUS",
-  "poolPledge": "5000000000",
-  "poolCost": "340000000",
-  "poolMargin": "0.025",
-  "poolRelays": [
-    {
-      "relayType": "dns",
-      "relayEntry": "dptus-relays.spaas.info",
-      "relayPort": "3001"
-    }
-  ],
-  "poolMetaName": "Adaption.us",
-  "poolMetaDescription": "www.adaption.us - Dapp listing website is maintained by this stake pool.",
-  "poolMetaTicker": "DPTUS",
-  "poolMetaHomepage": "https://www.adaption.us",
-  "poolMetaUrl": "https://raw.githubusercontent.com/bigpey/p/master/d.p.json",
-  "poolExtendedMetaUrl": "https://meta.spaas.info/DPTUS.extended-metadata.json",
-  "---": "--- DO NOT EDIT OR DELETE BELOW THIS LINE ---",
-  "poolID": "5dfaa40f99a0c218194e2c5945fe43a42179abe22d78d28a3017feb1",
-  "poolIDbech": "pool1tha2grue5rppsx2w93v5tljr5sshn2lz94ud9z3szlltz46s5k2",
-  "poolMetaHash": "5d84fe46f1678a8c49e79d5a66dace3a4c203be34e8af7c23f214f02f9ff31e7",
-  "regCertCreated": "Fri, 09 Jul 2021 13:44:13 -0400",
-  "regCertFile": "DPTUS.pool.cert",
-  "regEpoch": "256",
-  "regSubmitted": "Mon, 29 Mar 2021 16:46:59 +0000"
+  "name": "Adaption.us",
+  "description": "www.adaption.us - Dapp listing website is maintained by this stake pool.",
+  "ticker": "DPTUS",
+  "homepage": "https://www.adaption.us",
+  "extended": "https://meta.spaas.info/DPTUS.extended-metadata.json"
 }
